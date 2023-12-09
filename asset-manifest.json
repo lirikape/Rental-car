@@ -1,13 +1,39 @@
 {
   "files": {
-    "main.css": "/Rental-car/static/css/main.7acaea2f.css",
-    "main.js": "/Rental-car/static/js/main.07d3183d.js",
+    "main.css": "/Rental-car/static/css/main.4585a5cd.css",
+    "main.js": "/Rental-car/static/js/main.056be2b8.js",
+    "static/css/603.4352ff02.chunk.css": "/Rental-car/static/css/603.4352ff02.chunk.css",
+    "static/js/603.2c9738c5.chunk.js": "/Rental-car/static/js/603.2c9738c5.chunk.js",
+    "static/js/677.e13549b2.chunk.js": "/Rental-car/static/js/677.e13549b2.chunk.js",
+    "static/js/120.30a76f0e.chunk.js": "/Rental-car/static/js/120.30a76f0e.chunk.js",
+    "static/js/0.a452d66e.chunk.js": "/Rental-car/static/js/0.a452d66e.chunk.js",
+    "static/js/805.eeb1934a.chunk.js": "/Rental-car/static/js/805.eeb1934a.chunk.js",
+    "static/media/image-why-choose-us.png": "/Rental-car/static/media/image-why-choose-us.d9d286445b52c54dd092.png",
+    "static/media/pngegg.png": "/Rental-car/static/media/pngegg.dfb25c6d70e3074d39de.png",
+    "static/media/Geomanist-Regular.ttf": "/Rental-car/static/media/Geomanist-Regular.a00c8fa55da97d984349.ttf",
+    "static/media/Geomanist-Bold.ttf": "/Rental-car/static/media/Geomanist-Bold.a26c7ebb01b0b35ce816.ttf",
+    "static/media/Geomanist-Medium.ttf": "/Rental-car/static/media/Geomanist-Medium.4d7ff78f4aaeac643424.ttf",
+    "static/media/Geomanist-Book.ttf": "/Rental-car/static/media/Geomanist-Book.8f3119317b8c2e4887fd.ttf",
+    "static/media/car-rental-logopreview.png": "/Rental-car/static/media/car-rental-logopreview.5329a6a2fd09266ddc31.png",
+    "static/media/favorites__empty_.png": "/Rental-car/static/media/favorites__empty_.5dda16f363371449596c.png",
+    "static/media/loader.gif": "/Rental-car/static/media/loader.0c450659cf9b16df3087.gif",
+    "static/media/mazda.png": "/Rental-car/static/media/mazda.1f430664c2bbbcf27bb2.png",
+    "static/media/amg.png": "/Rental-car/static/media/amg.82cb16bc80038dbc851a.png",
+    "static/media/bmw.png": "/Rental-car/static/media/bmw.b6e7b249cfb55c9c7690.png",
+    "static/media/symbol-defs.svg": "/Rental-car/static/media/symbol-defs.b3b9631814f9be1d4dcb226a5f363095.svg",
     "index.html": "/Rental-car/index.html",
-    "main.7acaea2f.css.map": "/Rental-car/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Rental-car/static/js/main.07d3183d.js.map"
+    "static/media/rectangle.svg": "/Rental-car/static/media/rectangle.47d915e4f1dfc3f8d1936f5b9b7e2e8e.svg",
+    "main.4585a5cd.css.map": "/Rental-car/static/css/main.4585a5cd.css.map",
+    "main.056be2b8.js.map": "/Rental-car/static/js/main.056be2b8.js.map",
+    "603.4352ff02.chunk.css.map": "/Rental-car/static/css/603.4352ff02.chunk.css.map",
+    "603.2c9738c5.chunk.js.map": "/Rental-car/static/js/603.2c9738c5.chunk.js.map",
+    "677.e13549b2.chunk.js.map": "/Rental-car/static/js/677.e13549b2.chunk.js.map",
+    "120.30a76f0e.chunk.js.map": "/Rental-car/static/js/120.30a76f0e.chunk.js.map",
+    "0.a452d66e.chunk.js.map": "/Rental-car/static/js/0.a452d66e.chunk.js.map",
+    "805.eeb1934a.chunk.js.map": "/Rental-car/static/js/805.eeb1934a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.4585a5cd.css",
+    "static/js/main.056be2b8.js"
   ]
 }
