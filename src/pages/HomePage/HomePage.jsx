@@ -4,20 +4,10 @@ import {
   Title,
   Span,
   ImageHero,
-  Text,
-  ImgStorePlay,
+
   WrapperBrandLogo,
   ImgBrandLogo,
-  WrapperHowItWork,
-  TitleHowItWork,
-  SpanHowItWork,
-  WrapperStep,
-  WrapperImgLocation,
-  WrapperImgData,
-  WrapperImgBook,
-  WrapperBlock,
-  StepTitle,
-  StepArticle,
+
   WrapperWhyChooseUs,
   ContentWhyChooseUs,
   ImgWhyChooseUs,
@@ -30,8 +20,7 @@ import {
   IconsItem,
 } from './HomePage.styled';
 
-import AppStore from '../../images/app-store.png';
-import GooglePlay from '../../images/google-play.png';
+
 import Mazda from '../../images/mazda.png';
 import Audi from '../../images/audi.png';
 import Vw from '../../images/vw.png';
@@ -39,10 +28,7 @@ import Bmw from '../../images/bmw.png';
 import Amg from '../../images/amg.png';
 import Ford from '../../images/ford.png';
 import Nissan from '../../images/nissan.png';
-import Location from '../../images/location.svg';
-import Calendar from '../../images/calendar-tick.svg';
-import Book from '../../images/car.svg';
-import Line from '../../images/Line.svg';
+
 import ImageWhyChooseUs from '../../images/image-why-choose-us.png';
 import Icons from '../../images/symbol-defs.svg';
 
